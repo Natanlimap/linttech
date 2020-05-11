@@ -1,0 +1,13 @@
+.MainTitle{
+    font-size: 3em;
+}
+.MainTitle p {
+    font-family: "Courier New";
+}
+.MainTitle strong {
+    font-family: "Arial";
+    font-weight: bold;
+}
+h5{
+    color: white;
+}
