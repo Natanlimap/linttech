@@ -1,0 +1,35 @@
+.MainTitle{
+    font-size: 3em;
+}
+.MainTitle p {
+    margin-top: 13rem;
+    color: white;
+    font-family: "Courier New";
+}
+.MainTitle strong {
+    font-family: "Arial";
+    font-weight: bold;
+}
+h5{
+    color: white;
+}
+
+.bottom-itens{
+    margin: 17rem 10rem 0rem 10rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.banner-bottom p{
+    color: white;
+}
+.bottom-itens input{
+    background-color: transparent;
+    color: white;
+    border-radius: 3px;
+    padding: 0.4rem 8rem 0.4rem 5px;
+    
+}
+form{
+    display: inline;
+}

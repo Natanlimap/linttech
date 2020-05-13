@@ -1,0 +1,14 @@
+.FooterSection{
+    height: 23rem;
+    background-color: #000001;
+    
+}
+#FooterSpace{
+    color: whitesmoke;
+    
+    text-align: justify;
+    padding-top: 2rem;
+}
+#FooterSpace h2{
+    font-weight: bold;
+}
